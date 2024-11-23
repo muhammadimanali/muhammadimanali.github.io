@@ -15,5 +15,12 @@
       <guid>https://muhammadimanali.github.io/posts/post/</guid>
       <description> My First Post </description>
     </item>
+    <item>
+      <title>Whitelist Signature ID vs. IP Whitelisting: Making Security Smarter</title>
+      <link>https://muhammadimanali.github.io/posts/my-first-post/</link>
+      <pubDate>Sun, 24 Nov 2024 01:05:47 +0800</pubDate>
+      <guid>https://muhammadimanali.github.io/posts/my-first-post/</guid>
+      <description>Introduction In today’s world of cloud computing, securing web applications is a top priority. Firewalls and access control mechanisms play a crucial role in protecting sensitive information from unauthorized access. Two commonly used methods to allow access are whitelisting Signature IDs and whitelisting IP addresses. While both methods serve similar purposes, they differ significantly in their impact on security. This blog explains the differences and why choosing the right method is essential for keeping systems secure.</description>
+    </item>
   </channel>
 </rss>
