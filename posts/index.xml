@@ -1,29 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Muhammad Iman Ali</title>
-    <link>http://muhammadimanaali.github.io/posts/</link>
-    <description>Recent content in Posts on Muhammad Iman Ali</description>
+    <title>Posts on My New Hugo Site</title>
+    <link>https://muhammadimanali.github.io/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Nov 2024 20:21:43 +0800</lastBuildDate><atom:link href="http://muhammadimanaali.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Nov 2024 01:10:34 +0800</lastBuildDate>
+    <atom:link href="https://muhammadimanali.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Whitelist Signature ID vs. IP Whitelisting: Making Security Smarter</title>
-      <link>http://muhammadimanaali.github.io/posts/secpost/</link>
-      <pubDate>Sat, 23 Nov 2024 20:21:43 +0800</pubDate>
-      
-      <guid>http://muhammadimanaali.github.io/posts/secpost/</guid>
-      <description>Introduction  In today’s world of cloud computing, securing web applications is a top priority. Firewalls and access control mechanisms play a crucial role in protecting sensitive information from unauthorized access. Two commonly used methods to allow access are whitelisting Signature IDs and whitelisting IP addresses. While both methods serve similar purposes, they differ significantly in their impact on security. This blog explains the differences and why choosing the right method is essential for keeping systems secure.</description>
+      <title>My First Post</title>
+      <link>https://muhammadimanali.github.io/posts/post/</link>
+      <pubDate>Sun, 24 Nov 2024 01:10:34 +0800</pubDate>
+      <guid>https://muhammadimanali.github.io/posts/post/</guid>
+      <description> My First Post </description>
     </item>
-    
-    <item>
-      <title>Firstpost</title>
-      <link>http://muhammadimanaali.github.io/posts/firstpost/</link>
-      <pubDate>Sat, 23 Nov 2024 09:21:47 +0800</pubDate>
-      
-      <guid>http://muhammadimanaali.github.io/posts/firstpost/</guid>
-      <description>My first post</description>
-    </item>
-    
   </channel>
 </rss>

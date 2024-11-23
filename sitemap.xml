@@ -2,20 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://muhammadimanaali.github.io/</loc>
-    <lastmod>2024-11-23T20:21:43+08:00</lastmod>
+    <loc>https://muhammadimanali.github.io/posts/post/</loc>
+    <lastmod>2024-11-24T01:10:34+08:00</lastmod>
   </url><url>
-    <loc>http://muhammadimanaali.github.io/posts/</loc>
-    <lastmod>2024-11-23T20:21:43+08:00</lastmod>
+    <loc>https://muhammadimanali.github.io/</loc>
+    <lastmod>2024-11-24T01:10:34+08:00</lastmod>
   </url><url>
-    <loc>http://muhammadimanaali.github.io/posts/secpost/</loc>
-    <lastmod>2024-11-23T20:21:43+08:00</lastmod>
+    <loc>https://muhammadimanali.github.io/posts/</loc>
+    <lastmod>2024-11-24T01:10:34+08:00</lastmod>
   </url><url>
-    <loc>http://muhammadimanaali.github.io/posts/firstpost/</loc>
-    <lastmod>2024-11-23T09:21:47+08:00</lastmod>
+    <loc>https://muhammadimanali.github.io/categories/</loc>
   </url><url>
-    <loc>http://muhammadimanaali.github.io/categories/</loc>
-  </url><url>
-    <loc>http://muhammadimanaali.github.io/tags/</loc>
+    <loc>https://muhammadimanali.github.io/tags/</loc>
   </url>
 </urlset>
