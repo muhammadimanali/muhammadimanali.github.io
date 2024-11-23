@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
+    <title>Posts on Muhammad Iman Ali</title>
     <link>https://muhammadimanali.github.io/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <description>Recent content in Posts on Muhammad Iman Ali</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Nov 2024 01:10:34 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 24 Nov 2024 01:05:47 +0800</lastBuildDate>
     <atom:link href="https://muhammadimanali.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Post</title>
-      <link>https://muhammadimanali.github.io/posts/post/</link>
-      <pubDate>Sun, 24 Nov 2024 01:10:34 +0800</pubDate>
-      <guid>https://muhammadimanali.github.io/posts/post/</guid>
-      <description> My First Post </description>
-    </item>
     <item>
       <title>Whitelist Signature ID vs. IP Whitelisting: Making Security Smarter</title>
       <link>https://muhammadimanali.github.io/posts/my-first-post/</link>
