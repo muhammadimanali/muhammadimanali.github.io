@@ -1,0 +1,4 @@
+baseURL = 'https://muhammadimanali.github.io'
+languageCode = 'en-us'
+title = 'Muhammad Iman Ali'
+theme = "hugo-tania"
